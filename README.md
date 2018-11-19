@@ -3,9 +3,9 @@ traceroute -> geoip lookup
 
 ## requirements
 
-geoiplookup command
-vaguely-recent Perl
-common::sense ```cpanm install common::sense```
+* geoiplookup command
+* vaguely-recent Perl
+* common::sense ```cpanm install common::sense```
 
 ## usage
 
